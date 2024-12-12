@@ -1,7 +1,7 @@
 from openai import OpenAI  # pip install openai -i https://mirrors.aliyun.com/pypi/simple/
 
 client = OpenAI(
-        api_key="sk-37ac7d6bf4c0417fb07f40d6f3685b3c",
+        api_key="sk-37ac7d6bf4c0417fb07XXXX",
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",  # 填写DashScope SDK的base_url
     )
 
